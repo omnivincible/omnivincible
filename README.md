@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=THE%20INVINCIBLE%20WAR&labelColor=%238B2F2F&countColor=%23E8EAEC">
+</div>
 <img width="680" height="4" alt="Untitled90_20260909174340" src="https://github.com/user-attachments/assets/301f23fb-4a46-48b1-b0c0-540a2fd91b7d" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=A3221B&center=true&multiline=true&width=435&lines=I%E2%80%99ve+always+hated+you)](https://git.io/typing-svg)
